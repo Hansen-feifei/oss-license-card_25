@@ -4,7 +4,7 @@
 [![HTML](https://img.shields.io/badge/HTML-5-orange.svg)](index.html)
 [![Stars](https://img.shields.io/github/stars/USERNAME/oss-license-card_25?style=social)](https://github.com/USERNAME/oss-license-card_25/stargazers)
 
-一个面向中文初学者的开源许可证选择工具。回答四个问题，在 30 秒内得到 MIT / Apache-2.0 / GPL-3.0 的推荐结果与理由，并附三种许可证的对比表。
+一个面向中文初学者的开源许可证选择工具，支持离线使用。。回答四个问题，在 30 秒内得到 MIT / Apache-2.0 / GPL-3.0 的推荐结果与理由，并附三种许可证的对比表。
 
 ## 为什么需要它
 
